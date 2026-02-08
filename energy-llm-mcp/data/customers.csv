@@ -1,0 +1,5 @@
+customer_id,customer_name,region,tariff_type
+CUST001,Ravi Kumar,South,Domestic
+CUST002,Anita Sharma,North,Commercial
+CUST003,John Mathew,West,Industrial
+CUST004,Priya Singh,East,Domestic
